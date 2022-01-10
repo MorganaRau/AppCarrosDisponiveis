@@ -1,0 +1,7 @@
+{
+  "name": "revenda-carros",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
